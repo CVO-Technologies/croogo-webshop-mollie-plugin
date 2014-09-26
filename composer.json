@@ -1,0 +1,17 @@
+{
+	"name": "cvo-technologies/croogo-webshop-mollie-plugin",
+	"type": "croogo-plugin",
+	"require": {
+		"cvo-technologies/croogo-webshop-plugin": "dev-master",
+		"mollie/mollie-api-php": "1.1.5"
+	},
+	"authors": [
+		{
+			"name": "Marlin Cremers",
+			"email": "m.cremers@cvo-technologies.com"
+		}
+	],
+	"extra": {
+		"installer-name": "WebshopMollie"
+	}
+}
